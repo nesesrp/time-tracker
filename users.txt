@@ -1,0 +1,3 @@
+# User credentials file
+# Format: username:password
+e:e

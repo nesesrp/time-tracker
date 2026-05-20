@@ -1,0 +1,5 @@
+# Activities file
+# Format: id|name|duration|timestamp|category|description
+1|1|1|1764705084|1|1
+2|2|2|1764705087|2|2
+3|3|3|1764705090|3|3
